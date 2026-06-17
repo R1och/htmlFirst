@@ -6,3 +6,7 @@ h1 {
 	text-align: right;
 	color: purple
 }
+th {
+	background-color: gray;
+	font-weight: bold;
+}
